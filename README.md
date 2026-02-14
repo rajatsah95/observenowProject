@@ -30,13 +30,12 @@ A simple full-stack **Saved Contacts** app where users can:
 
 # 📂 Project Structure
 
-saved-contacts-app/
+<pre>saved-contacts-app/
 │
 ├── backend/
 │ ├── src/
 │ │ ├── db/
-│ │ │ ├── index.ts
-│ │ │ └── schema.ts
+│ │ │ └── index.ts
 │ │ ├── routes/
 │ │ │ └── contacts.ts
 │ │ ├── validation/
@@ -53,7 +52,7 @@ saved-contacts-app/
 │ └── tailwind.config.js
 │
 └── README.md
-
+</pre>
 
 
 ⚙️ Backend Setup
